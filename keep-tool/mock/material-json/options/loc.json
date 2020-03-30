@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "name": "开屏",
+      "id": "kaipin"
+    },
+    {
+      "name": "双列feed",
+      "id": "double"
+    },
+    {
+      "name": "单列feed",
+      "id": "single"
+    },
+    {
+      "name": "完成页面卡片",
+      "id": "finsh"
+    },
+    {
+      "name": "前贴片",
+      "id": "front"
+    }
+  ],
+  "errorCode": 0,
+  "errorMessage": "",
+  "ok": true
+}

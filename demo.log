@@ -1,0 +1,39 @@
+1.578219916173357e+09	debug	zap/zap.go:98	logger construction succeeded
+	1.578219916173524e+09	info	zap/zap.go:49	
+	1.578219916197797e+09	debug	grpcserver/grpcServerMain.go:94	start runserver
+	1.578219916199054e+09	debug	grpcserver/grpcServerMain.go:102	userGrpcConfig: {Code:userGrpc DriverName:tcp UrlAddress:localhost:5052 DbName:}
+
+	1.578219916202673e+09	debug	grpcserver/grpcServerMain.go:107	server listening
+	1.5782199288770912e+09	debug	grpcserver/grpcServerMain.go:35	RegisterUser called
+	1.578219928877415e+09	debug	dataservicefactory/userDataServiceFactoryWrapper.go:15	UserDataServiceFactory
+	1.578219928877538e+09	debug	userdataservicefactory/sqlUserDataServiceFactory.go:18	sqlUserDataServiceFactory
+	1.578219928877595e+09	debug	datastorefactory/sqlFactory.go:17	sqlFactory
+	1.5782199288790169e+09	debug	userdataservicefactory/sqlUserDataServiceFactory.go:26	uds:&{0xc0002340c0}
+	1.5782199288791502e+09	debug	dataservicefactory/txDataServiceFactory.go:17	txDataServiceFactory
+	1.5782199288792582e+09	debug	datastorefactory/sqlFactory.go:17	sqlFactory
+	1.578219928879334e+09	debug	datastorefactory/sqlFactory.go:24	found db in container for key:sqldb
+	1.578219928879374e+09	debug	dataservicefactory/txDataServiceFactory.go:25	udm:&{0xc0002340c0}
+	1.578219928879427e+09	debug	grpcserver/grpcServerMain.go:48	mu:&{0 Tony IT 2020-01-05 10:25:28.873796 +0000 UTC}
+	1.578219928883425e+09	debug	sqldb/userDataSql.go:155	user inserted:&{6 Tony IT 2020-01-05 10:25:28.873796 +0000 UTC}
+	1.5782199288836212e+09	debug	grpcserver/grpcServerMain.go:54	resultUser:&{6 Tony IT 2020-01-05 10:25:28.873796 +0000 UTC}
+	1.5782199288839061e+09	debug	grpcserver/grpcServerMain.go:61	user registered: id:6 name:"Tony" department:"IT" created:<seconds:1578219928 nanos:873796000 > 
+	1.578219928885748e+09	debug	grpcserver/grpcServerMain.go:69	ListUser called
+	1.5782199288858318e+09	debug	dataservicefactory/userDataServiceFactoryWrapper.go:15	UserDataServiceFactory
+	1.578219928885877e+09	debug	userdataservicefactory/sqlUserDataServiceFactory.go:18	sqlUserDataServiceFactory
+	1.578219928885909e+09	debug	datastorefactory/sqlFactory.go:17	sqlFactory
+	1.578219928885932e+09	debug	datastorefactory/sqlFactory.go:24	found db in container for key:sqldb
+	1.578219928885959e+09	debug	userdataservicefactory/sqlUserDataServiceFactory.go:26	uds:&{0xc0002340c0}
+	1.578219928885993e+09	debug	dataservicefactory/cacheDataServiceFacory.go:17	cacheDataServiceFactory
+	1.578219928886038e+09	debug	datastorefactory/cacheGrpcFactory.go:22	doesn't find cacheGrpc key=%v need to created a new one
+cacheGrpc
+	1.578219928886561e+09	debug	sqldb/userDataSql.go:78	rows to User:&{5 Brian Marketing 2018-12-09 00:00:00 +0000 UTC}
+	1.5782199288866181e+09	debug	sqldb/userDataSql.go:78	rows to User:&{6 Tony IT 2020-01-05 00:00:00 +0000 UTC}
+	1.578219928886671e+09	debug	sqldb/userDataSql.go:113	find user list:[{5 Brian Marketing 2018-12-09 00:00:00 +0000 UTC} {6 Tony IT 2020-01-05 00:00:00 +0000 UTC}]
+	1.5782199288867478e+09	debug	grpcserver/grpcServerMain.go:88	user list: [id:5 name:"Brian" department:"Marketing" created:<seconds:1544313600 >  id:6 name:"Tony" department:"IT" created:<seconds:1578182400 > ]
+	1.5782227569401238e+09	debug	zap/zap.go:98	logger construction succeeded
+	1.578222756940566e+09	info	zap/zap.go:49	
+	1.5782227569611259e+09	debug	grpcserver/grpcServerMain.go:94	start runserver
+	1.578222756961781e+09	debug	grpcserver/grpcServerMain.go:102	userGrpcConfig: {Code:userGrpc DriverName:tcp UrlAddress:localhost:5052 DbName:}
+
+	1.578222756964488e+09	debug	grpcserver/grpcServerMain.go:107	server listening
+	

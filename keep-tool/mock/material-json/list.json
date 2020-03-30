@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "createtime": "1558407720000",
+      "tradesLevel1": "3C数码",
+      "tradesLevel2": "手机",
+      "brand": "VIVO",
+      "pic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1558509185667&di=158e49d126ad11c7ef3811a519420994&imgtype=0&src=http%3A%2F%2Fbpic.588ku.com%2Felement_origin_min_pic%2F01%2F54%2F21%2F485747078e83bfe.jpg",
+      "id": "0001"
+    },
+    {
+      "createtime": "1558407720020",
+      "tradesLevel1": "3C数码",
+      "tradesLevel2": "耳机",
+      "brand": "BEATS",
+      "pic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1558509185667&di=158e49d126ad11c7ef3811a519420994&imgtype=0&src=http%3A%2F%2Fbpic.588ku.com%2Felement_origin_min_pic%2F01%2F54%2F21%2F485747078e83bfe.jpg",
+      "id": "0003"
+    }
+  ],
+  "errorCode": 0,
+  "errorMessage": "",
+  "ok": true
+}
