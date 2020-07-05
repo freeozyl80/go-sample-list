@@ -1,0 +1,6 @@
+2020/05/06 22:18:49 Error fetching url www.google.com : Get "www.google.com": unsupported protocol scheme ""
+2020/05/06 22:18:49 Status Code for http://www.google.com : 200 OK
+2020/05/06 22:30:50 Error fetching url www.google.com : Get "www.google.com": unsupported protocol scheme ""
+2020/05/06 22:30:50 Status Code for http://www.google.com : 200 OK
+2020/05/06 22:34:21 Error fetching url www.google.com : Get "www.google.com": unsupported protocol scheme ""
+2020/05/06 22:34:21 Status Code for http://www.google.com : 200 OK

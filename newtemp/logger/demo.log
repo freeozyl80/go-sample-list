@@ -1,0 +1,216 @@
+2020-05-06T22:49:45.488+0800	DEBUG	logger/demo.go:33	Trying to hit GET request for www.google.com
+2020-05-06T22:49:45.488+0800	ERROR	logger/demo.go:36	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:49:45.488+0800	DEBUG	logger/demo.go:33	Trying to hit GET request for http://www.google.com
+2020-05-06T22:49:45.729+0800	INFO	logger/demo.go:38	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:51:45.237+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:51:45.237+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:51:45.237+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:51:45.409+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:53:37.321+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:53:37.321+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:53:37.321+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:53:37.563+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:53:37.563+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:53:37.563+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:53:37.563+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:53:37.733+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:53:37.733+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:53:37.733+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:53:37.733+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:53:37.905+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:53:37.906+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:53:37.906+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:53:37.906+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:53:38.090+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:53:38.090+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:53:38.090+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:53:38.090+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:53:38.264+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:53:38.264+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:53:38.264+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:53:38.264+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:53:38.437+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:53:38.437+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:53:38.437+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:53:38.437+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:53:38.611+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:53:38.611+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:53:38.611+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:53:38.611+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:53:38.785+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:53:38.785+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:53:38.785+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:53:38.785+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:53:38.953+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:53:38.953+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:53:38.953+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:53:38.953+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:53:39.124+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:53:39.124+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:53:39.124+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:53:39.124+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:53:39.294+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:16.309+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:16.310+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:16.310+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:16.484+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:16.485+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:16.485+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:16.485+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:16.655+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:16.655+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:16.655+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:16.655+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:16.825+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:16.825+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:16.825+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:16.825+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:16.992+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:16.992+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:16.992+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:16.992+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:17.169+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:17.169+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:17.169+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:17.169+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:17.338+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:17.338+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:17.338+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:17.338+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:17.513+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:17.513+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:17.513+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:17.513+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:17.694+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:17.694+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:17.694+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:17.694+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:17.864+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:17.864+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:17.864+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:17.864+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:18.045+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:18.045+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:18.045+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:18.045+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:18.215+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:18.215+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:18.215+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:18.215+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:18.387+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:18.387+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:18.387+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:18.387+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:18.561+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:18.561+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:18.561+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:18.561+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:18.737+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:18.737+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:18.737+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:18.737+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:18.906+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:18.906+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:18.906+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:18.906+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:19.080+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:19.080+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:19.080+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:19.080+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:19.255+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:19.255+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:19.255+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:19.255+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:19.422+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:19.422+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:19.422+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:19.422+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:19.605+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:19.605+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:19.605+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:19.605+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:19.782+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:19.782+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:19.782+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:19.782+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:19.952+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:19.952+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:19.952+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:19.952+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:20.128+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:20.128+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:20.128+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:20.128+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:20.321+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:20.321+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:20.321+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:20.321+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:20.490+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:20.490+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:20.490+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:20.490+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:20.663+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:20.664+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:20.664+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:20.664+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:20.840+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:20.840+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:20.840+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:20.840+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:21.016+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:21.016+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:21.016+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:21.016+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:21.199+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:21.199+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:21.199+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:21.199+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:21.373+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:21.373+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:21.374+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:21.374+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:21.543+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:21.543+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:21.543+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:21.544+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:21.715+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:21.715+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:21.715+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:21.715+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:21.885+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:21.886+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:21.886+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:21.886+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:22.058+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:22.059+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:22.059+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:22.059+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:22.238+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:22.238+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:22.238+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:22.238+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:22.409+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:22.409+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:22.409+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:22.409+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:22.608+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:22.609+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:22.609+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:22.609+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:22.823+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:22.823+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:22.823+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:22.823+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:23.040+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:23.040+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:23.040+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:23.040+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:23.226+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:23.226+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:23.226+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:23.226+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:23.407+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
+2020-05-06T22:54:23.407+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for www.google.com
+2020-05-06T22:54:23.407+0800	ERROR	logger/demo.go:42	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2020-05-06T22:54:23.407+0800	DEBUG	logger/demo.go:39	Trying to hit GET request for http://www.google.com
+2020-05-06T22:54:23.584+0800	INFO	logger/demo.go:44	Success! statusCode = 200 OK for URL http://www.google.com
