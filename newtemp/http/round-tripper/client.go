@@ -1,4 +1,5 @@
 //缓存 responses，比如 app需要访问 Github api，获取 trending repos，这个数据变动不频繁，假设30分钟变动一次，你显然不希望每次都要点击api都要来请求Github api，解决这个问题的方法是实现这样的http.RoundTripper
+// 在go中RoundTripper的定义为“执行单个HTTP事务的能力，获取给定请求的响应”。
 
 package main
 
