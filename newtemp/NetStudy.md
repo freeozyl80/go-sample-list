@@ -1,3 +1,5 @@
+**https://labuladong.gitbook.io/algo/** 
+
 # go interface https://gocn.vip/topics/10759
 # servicetmpl1 https://github.com/jfeng45/servicetmpl1/blob/master/README.zh.md 
 # go 抢占式调度 https://mp.weixin.qq.com/s/YVJh0wGlkGfymfY5u1iqTA
