@@ -29,16 +29,14 @@ func main() {
 	f = ows1
 
 	fmt.Println(reflect.TypeOf(f).Name())
-
 	fmt.Println(f)
-
-								                                          
-	  := reflect.TypeOf(f)
+	getType:= reflect.TypeOf(f)
 	getValue := reflect.ValueOf(f)
 	getElm := reflect.ValueOf(&f).Elem()
 
+	fmt.Println(getType)
 	fmt.Println(getElm)
-
+	getElm.Field(1).SetInt(77)  // 这里为什么不能改 是因为 已经是 interface 了
 	for i := 0; i < getType.NumField(); i++ {
 		field := getType.Field(i)
 
