@@ -44,6 +44,6 @@
 8. https://mp.weixin.qq.com/s/0Fr1pcNr7wHyQcOBNX1CUw 并发设计中的同步锁与waitgroup用法
 9. https://mp.weixin.qq.com/s/T-vc9UjX66Uqso_tpayIKw goroutine不只有基础的用法
 10. https://gocn.vip/topics/10930 用 Go 語言實戰 Limit Concurrency 方法
-
+11. https://www.jianshu.com/p/37281543f506 状态机模式
 *** 常用：
 http://www.alloyteam.com/2020/05/14385/ http3.x
