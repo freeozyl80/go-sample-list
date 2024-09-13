@@ -12,7 +12,8 @@ var (
 )
 
 func main() {
-	threadNum := 5
+	fmt.Println(counter)
+	threadNum := 100
 	//1. 五个信号量
 	wg.Add(threadNum)
 	//2.开启5个线程
@@ -29,6 +30,7 @@ func incCounter(index int) {
 	spinNum := 0
 	for {
 		//2.1原子操作
+		fmt.Printf("counter in thread is %d", counter)
 		old := counter
 		ok := atomic.CompareAndSwapInt32(&counter, old, old+1)
 		if ok {

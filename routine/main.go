@@ -1,10 +1,11 @@
 package main
 
 import (
+	"fmt"
+	"reflect"
 	"routine/pubsub"
 	"strings"
 	"time"
-	"fmt"
 )
 
 func main() {
@@ -18,6 +19,7 @@ func main() {
 		}
 		return false
 	})
+	fmt.Println(reflect.TypeOf(all))
 
 	p.Publish("Hello World")
 	p.Publish("Hello golang")

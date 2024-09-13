@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"strconv"
 	"sync"
 )
 
@@ -15,9 +14,9 @@ func worker(wg *sync.WaitGroup) {
 	defer wg.Done()
 
 	for i := 0; i < 100; i++ {
-		total.Lock()
+		//total.Lock()
 		total.value += i
-		total.Unlock()
+		// total.Unlock()
 	}
 }
 
@@ -31,6 +30,6 @@ func main() {
 
 	fmt.Println(total.value)
 
-	err, _ := strconv.Atoi("t123est")
-	fmt.Println(err)
+	// err, _ := strconv.Atoi("t123est")
+	// fmt.Println(err)
 }

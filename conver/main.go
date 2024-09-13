@@ -30,13 +30,17 @@ func main() {
 
 	fmt.Println(reflect.TypeOf(f).Name())
 	fmt.Println(f)
-	getType:= reflect.TypeOf(f)
-	getValue := reflect.ValueOf(f)
+	getType := reflect.TypeOf(f)
 	getElm := reflect.ValueOf(&f).Elem()
 
 	fmt.Println(getType)
 	fmt.Println(getElm)
-	getElm.Field(1).SetInt(77)  // 这里为什么不能改 是因为 已经是 interface 了
+	getValue := reflect.ValueOf(f)
+
+	fmt.Printf("%+v", getValue)
+
+	//getElm.Field(1).SetInt(77) // 这里为什么不能改 是因为 已经是 interface 了
+
 	for i := 0; i < getType.NumField(); i++ {
 		field := getType.Field(i)
 
@@ -67,4 +71,5 @@ func main() {
 	s.Field(0).SetInt(77)
 	s.Field(1).SetString("Sunset Strip")
 	fmt.Println("t is now", t)
+
 }

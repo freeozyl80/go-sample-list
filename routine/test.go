@@ -8,7 +8,7 @@ import (
 func main() {
 
 	donec := make(chan bool, 1)
-	//close(donec)
+	// close(donec)
 	for {
 		select {
 		case <-time.After(time.Second):
